@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1543242574 source:c:\users\lucas\desktop\maze\main.c
-	<stdio.h>
-	<stdlib.h>
-	<locale.h>
-	<windows.h>
-
